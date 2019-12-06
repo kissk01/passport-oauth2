@@ -34,6 +34,7 @@
   "main": "./lib",
   "dependencies": {
     "base64url": "3.x.x",
+    "https-proxy-agent": "^3.0.1",
     "oauth": "0.9.x",
     "passport-strategy": "1.x.x",
     "uid2": "0.0.x",
